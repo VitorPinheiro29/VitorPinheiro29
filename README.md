@@ -1,8 +1,9 @@
-<h1 align="center">I'm Vitor Pinheiro</h1>
-<h3 align="center">A young man with many ideas who wants to discover the world.</h3> 
-<h3 align = "center">Be welcome!</h3>
-<p>    - 🔭 I’m currently working on <strong>UI Clone Twitter</strong></p> 
-<p>Check out my project <strong><a href="https://twitterclonevitorpinheiro.netlify.app/">here</a></strong><p>
+<body style="background-color: black">
+<h1 align="left">Hello world 👋, I'm <i>Vitor Pinheiro</i></h1>
+<p>A young man who, through technology, wants to achieve his dreams and discover the world.</p>
+<h4 align = "left">Be welcome!</h4>
+<p> - 🔭 I’m currently working on <strong>UI Clone Twitter</strong></p> 
+<p>... Check out my project <strong><a href="https://twitterclonevitorpinheiro.netlify.app/">here</a></strong><p>
 
 - 💬 **Ask me about** HTML, CSS and JavaScript
 
@@ -16,3 +17,4 @@
 <a href="https://www.facebook.com/vitor.pinheiro.31924792" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="vitor pinheiro" height="20" width="20" /></a>
 <a href="https://instagram.com/vitorpinheiro_._" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="vitorpinheiro_._" height="20" width="20" /></a>
 </p>
+</body>
