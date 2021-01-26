@@ -5,7 +5,7 @@
 <p> - 🔭 I’m currently working on <strong>UI Clone Twitter</strong></p> 
 <p>... Check out my project <strong><a href="https://twitterclonevitorpinheiro.netlify.app/">here</a></strong><p>
 
-- 💬 **Ask me about** HTML, CSS and JavaScript
+- 💬 **Ask me about** HTML, CSS, JavaScript and Angular
 
 - 📫 **How to reach me:** vitorca.pinheiro@gmail.com
 
